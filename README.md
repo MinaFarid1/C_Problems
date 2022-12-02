@@ -1,4 +1,4 @@
-## Solutions for 8 C problems related to pointers
+## Solutions 1: 8 C problems related to pointers
 
 1- C program to compute sum  of array elements using pointers.<br />
 2- C program to find length of a given string using pointer.<br />
@@ -8,3 +8,5 @@
 6- C program to print all the array elements and the maximum number in array using array of pointers.<br />
 7- C function to swap two numbers using bitwise operation and call it using pointer to function.<br />
 8- C function to swap the contents of two arrays with the same length using pointers.<br />
+
+## Solutions 2: Implementation for linked list with insertion / deletion at any valid position with list size tracking
