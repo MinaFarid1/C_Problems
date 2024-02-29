@@ -115,11 +115,13 @@ int main(){
         // Check for winner
         winner = check_board_for_winner(xoBoard);
         if (winner == 'X' || winner == 'O') {
+            displayBoard(xoBoard);
             printf("Player %c wins!\n", winner);
             break;
         }
         if(checkDraw(xoBoard)){
-            printf("It is a draw\n");
+            displayBoard(xoBoard);
+            printf("It is a draw.\n");
             resetBoard(xoBoard);
         }
         // Alternate between X and O turns
