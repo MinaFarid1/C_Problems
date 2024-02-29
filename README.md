@@ -16,3 +16,5 @@
 Use "gcc main.c Stack.c -o main.exe" to compile the code then run main.exe
 
 ## Solutions 4: C program to check if a word is palindrome or not using stack
+
+## Solutions 5: Implementation of simple tic-tac-toe game in C

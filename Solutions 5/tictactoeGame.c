@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #define rows 3
 #define cols 3
-// الاسم: مينا فريد سمير - سكشن: 7
 void displayBoard(char board[rows][cols]){
     for (int j = 0; j < cols; j++) 
             printf("---");
