@@ -18,11 +18,3 @@ Use "gcc main.c Stack.c -o main.exe" to compile the code then run main.exe
 ## Solutions 4: C program to check if a word is palindrome or not using stack
 
 ## Solutions 5: Implementation of simple tic-tac-toe game in C
-
-## Solutions 6: Various problems
-
-1- Write a C Macro GET_BIT to read certain bit in a 4-byte (long) variable.
-2- Write a C Macro to calculate the sum of an array.
-3- Write a C code to count how many ones in the binary representation in
-a given integer number.
-4- Write a C function to reverse the binary of an 8-bits number.
